@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 66 66" enable-background="new 0 0 66 66" xml:space="preserve">
+<g>
+	<defs>
+		<circle id="SVGID_105_" cx="33" cy="33" r="31.4"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_105_"  overflow="visible"/>
+	</clipPath>
+	
+		<use xlink:href="#SVGID_105_"  overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
+</g>
+<polygon fill="none" stroke="#0C1F2E" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" points="24,32.9 21.1,21.1 
+	32.7,24.4 "/>
+<rect x="31.2" y="25.9" transform="matrix(0.7189 -0.6951 0.6951 0.7189 -14.6005 34.0786)" fill="none" stroke="#0C1F2E" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" width="7.3" height="18.3"/>
+<line fill="none" stroke="#0C1F2E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="36.1" y1="12.3" x2="36.1" y2="17.9"/>
+<line fill="none" stroke="#0C1F2E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="29.6" y1="49" x2="29.6" y2="54.7"/>
+<line fill="none" stroke="#0C1F2E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="51.6" y1="27" x2="45.9" y2="27"/>
+<line fill="none" stroke="#0C1F2E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="19.9" y1="38.5" x2="14.2" y2="38.5"/>
+<line fill="none" stroke="#0C1F2E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="47.2" y1="17" x2="43.2" y2="21"/>
+<line fill="none" stroke="#0C1F2E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="22.9" y1="46.3" x2="18.9" y2="50.3"/>
+<line fill="none" stroke="#0C1F2E" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" x1="41.3" y1="41.7" x2="55.2" y2="55.3"/>
+<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#0C1F2E" points="-29.8,52.3 -40.5,33.7 -29.8,15.1 -8.2,15.1 2.5,33.7 
+	-8.2,52.3 "/>
+</svg>

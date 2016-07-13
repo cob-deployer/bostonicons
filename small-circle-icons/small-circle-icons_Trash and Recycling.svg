@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 66 66">
+  <defs>
+    <circle id="a" cx="32.9" cy="33" r="31.4"/>
+  </defs>
+  <use xlink:href="#a" class="svg-stroke-hover" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
+  <path class="svg-stroke-hover" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M22.6 19.2h20.5v4.1H22.6z"/>
+  <path class="svg-fill-hover" fill-rule="evenodd" clip-rule="evenodd" fill="#091F2F" d="M28.2 15h9.3v2h-9.3z"/>
+  <path class="svg-stroke-hover" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M39.2 49.4H26.6L24 27.2h17.8z"/>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 66 66" enable-background="new 0 0 66 66" xml:space="preserve">
+<g>
+	<defs>
+		<circle id="SVGID_117_" cx="33" cy="33" r="31.4"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_117_"  overflow="visible"/>
+	</clipPath>
+	
+		<use xlink:href="#SVGID_117_"  overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
+</g>
+<line fill="#FFFFFF" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" x1="33.4" y1="11.2" x2="33.4" y2="54.6"/>
+<line fill="#FFFFFF" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" x1="56.4" y1="32.9" x2="10.4" y2="32.9"/>
+<line fill="#FFFFFF" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" x1="45.7" y1="20.6" x2="21.1" y2="45.2"/>
+<line fill="#FFFFFF" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" x1="45.7" y1="45.2" x2="21.1" y2="20.6"/>
+<circle fill="#FFFFFF" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" cx="33.4" cy="32.9" r="7.1"/>
+<polyline fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" points="28.2,13.4 33.2,18.9 38.8,13.7 "/>
+<polyline fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" points="38.8,52.6 33.7,47.1 28.2,52.3 "/>
+<polyline fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" points="12.2,38.3 17.8,33.3 12.6,27.7 "/>
+<polyline fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" points="54.2,27.7 48.7,32.8 53.9,38.3 "/>
+<polyline fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" points="14.4,21.3 21.9,21.6 22.1,14.1 "/>
+<polyline fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" points="51.6,43.5 44.1,43.2 43.9,50.7 "/>
+<polyline fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" points="44.5,14.4 44.1,21.9 51.7,22.1 "/>
+<polyline fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" points="22.2,51.6 22.6,44.1 15,43.9 "/>
+</svg>
