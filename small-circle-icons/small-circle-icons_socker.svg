@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 66 66">
+  <defs>
+    <circle id="a" cx="33" cy="33" r="31.4"/>
+  </defs>
+  <use xlink:href="#a" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
+  <g>
+    <defs>
+      <circle id="b" cx="33" cy="32.7" r="17.9"/>
+    </defs>
+    <use class="svg-stroke-hover" xlink:href="#b" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
+    <path class="svg-fill-hover" fill-rule="evenodd" clip-rule="evenodd" fill="#091F2F" d="M30.2 36.4l-1.6-5 4.3-3.2 4.3 3.2-1.6 5M35.6 16.1l1.6 5-4.3 3.1-4.3-3.1 1.6-5"/>
+    <path class="svg-stroke-hover" fill="none" stroke="#091F2F" stroke-miterlimit="10" d="M32.9 23.5v10"/>
+    <path class="svg-fill-hover" fill-rule="evenodd" clip-rule="evenodd" fill="#091F2F" d="M50.3 28l-3.8 3.7-4.7-2.5.9-5.2 5.3-.8"/>
+    <path class="svg-stroke-hover" fill="none" stroke="#091F2F" stroke-miterlimit="10" d="M42.4 28.9l-9 4.4"/>
+    <path class="svg-fill-hover" fill-rule="evenodd" clip-rule="evenodd" fill="#091F2F" d="M42 47.6l-4.5-2.7 1.1-5.2 5.3-.5L46 44"/>
+    <path class="svg-stroke-hover" fill="none" stroke="#091F2F" stroke-miterlimit="10" d="M39.1 40.2l-6.6-7.5"/>
+    <path class="svg-fill-hover" fill-rule="evenodd" clip-rule="evenodd" fill="#091F2F" d="M19.3 43.4l2.3-4.7 5.3.7.9 5.2-4.7 2.5"/>
+    <path class="svg-stroke-hover" fill="none" stroke="#091F2F" stroke-miterlimit="10" d="M26.4 39.9l6.9-7.2"/>
+    <path class="svg-fill-hover" fill-rule="evenodd" clip-rule="evenodd" fill="#091F2F" d="M18 23.8l5.3.5 1.1 5.2-4.6 2.7-3.9-3.5"/>
+    <path class="svg-stroke-hover" fill="none" stroke="#091F2F" stroke-miterlimit="10" d="M23.8 29.2l9.1 4.1M19.7 31.2l2.6 9M22.3 25.2l7.6-5.1M36.4 20.1l9.6 5.7M46.6 29.9l-3.2 11.3M26.4 44.5l13.3.3"/>
+  </g>
+</svg>
