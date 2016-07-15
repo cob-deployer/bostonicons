@@ -7,5 +7,5 @@
     <text transform="translate(21 47.097)" fill="#FFF" font-family="'Montserrat-Bold'" font-size="39.451">
         P
     </text>
-    <path class="svg-stroke-hover" fill="none" stroke="#FFF" stroke-width="3" stroke-miterlimit="10" d="M19.5 14.5L49.7 50"/>
+    <path fill="none" stroke="#FFF" stroke-width="3" stroke-miterlimit="10" d="M19.5 14.5L49.7 50"/>
 </svg>
