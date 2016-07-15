@@ -1,24 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 66 66" enable-background="new 0 0 66 66" xml:space="preserve">
-<g>
-	<defs>
-		<circle id="SVGID_93_" cx="33" cy="33" r="31.4"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_93_"  overflow="visible"/>
-	</clipPath>
-	
-		<use xlink:href="#SVGID_93_"  overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
-</g>
-<g>
-	<polygon fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" points="51.5,28.5 33.1,13.9 15.8,28.5 	"/>
-	<path fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M49.5,28.3c0,9.6,0,22.6,0,22.6H16.9
-		c0,0,0-12.7,0-22.3"/>
-</g>
-<line fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" x1="22.6" y1="28.5" x2="22.6" y2="50.9"/>
-<line fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" x1="29.5" y1="28.5" x2="29.5" y2="50.9"/>
-<line fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" x1="36.4" y1="28.5" x2="36.4" y2="50.9"/>
-<line fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" x1="43.3" y1="28.5" x2="43.3" y2="50.9"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 66 66">
+    <defs>
+        <circle id="a" cx="33" cy="33" r="31.4"/>
+    </defs>
+    <use xlink:href="#a" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
+    <g fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10">
+        <path d="M51.5 28.5L33.1 13.9 15.8 28.5z"/>
+        <path d="M49.5 28.3v22.6H16.9V28.6"/>
+    </g>
+    <path fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M22.6 28.5v22.4M29.5 28.5v22.4M36.4 28.5v22.4M43.3 28.5v22.4"/>
 </svg>

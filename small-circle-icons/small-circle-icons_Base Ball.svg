@@ -1,24 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 66 66">
-  <defs>
-    <circle id="a" cx="33" cy="33" r="31.4"/>
-  </defs>
-  <use class="svg-stroke-hover" xlink:href="#a" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
-  <g>
     <defs>
-      <circle id="b" cx="33" cy="33.1" r="17.9"/>
+        <circle id="a" cx="33" cy="33" r="31.4"/>
+    </defs>
+    <use class="svg-stroke-hover" xlink:href="#a" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
+    <defs>
+        <circle id="b" cx="33" cy="33.1" r="17.9"/>
     </defs>
     <use class="svg-stroke-hover" xlink:href="#b" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
     <g class="svg-stroke-hover" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10">
-      <path d="M28.1 50.5c-.2-.3-.4-.5-.5-.8"/>
-      <path stroke-dasharray="1.9005,1.9005" d="M27 47.9c-.7-4.1 2.8-9 8.4-11.6 5.2-2.5 10.6-2.3 13.6 0"/>
-      <path d="M49.7 37c.2.2.4.5.6.8"/>
+        <path d="M28.1 50.5c-.2-.3-.4-.5-.5-.8"/>
+        <path stroke-dasharray="1.9005,1.9005" d="M27 47.9c-.7-4.1 2.8-9 8.4-11.6 5.2-2.5 10.6-2.3 13.6 0"/>
+        <path d="M49.7 37c.2.2.4.5.6.8"/>
     </g>
-    <g>
-      <g class="svg-stroke-hover" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10">
+    <g class="svg-stroke-hover" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10">
         <path d="M37.8 16.5c0 .3.1.7 0 1"/>
         <path stroke-dasharray="2.0478,2.0478" d="M37.6 19.5c-1 4.2-4.9 8-10.4 9.7-3 .9-6 1-8.6.4"/>
         <path d="M17.6 29.3l-.9-.3"/>
-      </g>
     </g>
-  </g>
 </svg>

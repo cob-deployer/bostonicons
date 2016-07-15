@@ -1,32 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 66 66" enable-background="new 0 0 66 66" xml:space="preserve">
-<g>
-	<defs>
-		<circle id="SVGID_15_" cx="33" cy="33" r="31.4"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_15_"  overflow="visible"/>
-	</clipPath>
-	
-		<use xlink:href="#SVGID_15_"  overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
-</g>
-<g>
-	<polyline fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" points="12.7,26.6 33.7,12.1 53.9,26.6 	"/>
-	<path fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M50.2,24.1c0,9.6,0,25,0,25H17.6c0,0,0-15,0-24.7"
-		/>
-	<g>
-		<path fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M26.9,24.1c0,2-2,2-2,4.1c0,2,2,2,2,4.1
-			c0,2-2,2-2,4.1c0,2,2,2,2,4.1s-2,2-2,4.1"/>
-	</g>
-	<g>
-		<path fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M35.2,24.1c0,2-2,2-2,4.1c0,2,2,2,2,4.1
-			c0,2-2,2-2,4.1c0,2,2,2,2,4.1s-2,2-2,4.1"/>
-	</g>
-	<g>
-		<path fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M43.5,24.1c0,2-2,2-2,4.1c0,2,2,2,2,4.1
-			c0,2-2,2-2,4.1c0,2,2,2,2,4.1s-2,2-2,4.1"/>
-	</g>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 66 66">
+    <defs>
+        <circle id="a" cx="33" cy="33" r="31.4"/>
+    </defs>
+    <use xlink:href="#a" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
+    <g fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10">
+        <path d="M12.7 26.6l21-14.5 20.2 14.5"/>
+        <path d="M50.2 24.1v25H17.6V24.4"/>
+        <path d="M26.9 24.1c0 2-2 2-2 4.1 0 2 2 2 2 4.1 0 2-2 2-2 4.1 0 2 2 2 2 4.1s-2 2-2 4.1m10.3-20.5c0 2-2 2-2 4.1 0 2 2 2 2 4.1 0 2-2 2-2 4.1 0 2 2 2 2 4.1s-2 2-2 4.1m10.3-20.5c0 2-2 2-2 4.1 0 2 2 2 2 4.1 0 2-2 2-2 4.1 0 2 2 2 2 4.1s-2 2-2 4.1"/>
+    </g>
 </svg>

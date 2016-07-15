@@ -1,24 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 66 66" enable-background="new 0 0 66 66" xml:space="preserve">
-<g>
-	<defs>
-		<circle id="SVGID_53_" cx="33" cy="33" r="31.4"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_53_"  overflow="visible"/>
-	</clipPath>
-	
-		<use xlink:href="#SVGID_53_"  overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
-</g>
-<polyline fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" points="11.5,26 32.6,11.5 52.7,26 "/>
-<path fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M49,23.5c0,9.6,0,25,0,25H16.4c0,0,0-15,0-24.7"/>
-<rect x="24.3" y="28.4" fill="#091F2F" width="3" height="10.7"/>
-<line fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" x1="23.1" y1="30.5" x2="23.1" y2="37"/>
-<rect x="38.1" y="28.4" fill="#091F2F" width="2.8" height="10.7"/>
-<line fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" x1="42.1" y1="37.5" x2="42.1" y2="31"/>
-<line fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" x1="27.4" y1="33.7" x2="39.4" y2="33.7"/>
-<line fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" x1="21.4" y1="33.7" x2="22.9" y2="33.7"/>
-<line fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" x1="42.9" y1="33.7" x2="44.4" y2="33.7"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 66 66">
+    <defs>
+        <circle id="a" cx="33" cy="33" r="31.4"/>
+    </defs>
+    <use xlink:href="#a" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
+    <path fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M11.5 26l21.1-14.5L52.7 26"/>
+    <path fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M49 23.5v25H16.4V23.8"/>
+    <path fill="#091F2F" d="M24.3 28.4h3v10.7h-3z"/>
+    <path fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M23.1 30.5V37"/>
+    <path fill="#091F2F" d="M38.1 28.4h2.8v10.7h-2.8z"/>
+    <path fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M42.1 37.5V31M27.4 33.7h12M21.4 33.7h1.5M42.9 33.7h1.5"/>
 </svg>

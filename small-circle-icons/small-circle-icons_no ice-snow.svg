@@ -1,70 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 66 66" enable-background="new 0 0 66 66" xml:space="preserve">
-<g>
-	<defs>
-		<circle id="SVGID_123_" cx="33" cy="33" r="31.4"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_123_"  overflow="visible"/>
-	</clipPath>
-	
-		<use xlink:href="#SVGID_123_"  overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
-</g>
-<g>
-	<g>
-		<defs>
-			<path id="SVGID_205_" d="M28.5-121.3v5.9h4.3c2.1,0,4.7-0.1,4.7-2.9c0-2.9-2.4-3-3.7-3H28.5z M28.5-130.8v5.1h4.6
-				c1.4,0,3.6-0.1,3.6-2.6c0-2.4-2.1-2.5-3.2-2.5H28.5z M22.7-135.4h9.5c2.6,0,4.9,0.1,6.4,0.6c3,1,4.2,3.4,4.2,5.7
-				c0,1.3-0.3,2.1-0.5,2.4c-1.1,2.5-3.5,3-4.8,3.3c1.5,0.2,3.5,0.6,4.8,2.1c0.9,0.9,1.4,2.3,1.4,3.7c0,1.9-1,4.6-4.1,5.9
-				c-1.8,0.8-3.8,0.9-6.6,0.9H22.7V-135.4z"/>
-		</defs>
-		<use xlink:href="#SVGID_205_"  overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="#091F2E"/>
-		<clipPath id="SVGID_4_">
-			<use xlink:href="#SVGID_205_"  overflow="visible"/>
-		</clipPath>
-		<g clip-path="url(#SVGID_4_)">
-			<defs>
-				<rect id="SVGID_207_" x="-9.6" y="-165.2" width="167.8" height="243.5"/>
-			</defs>
-			<use xlink:href="#SVGID_207_"  overflow="visible" fill="#091F2E"/>
-			<clipPath id="SVGID_6_">
-				<use xlink:href="#SVGID_207_"  overflow="visible"/>
-			</clipPath>
-		</g>
-	</g>
-	<g>
-		<defs>
-			<rect id="SVGID_209_" x="22.7" y="-107.4" width="21" height="4.8"/>
-		</defs>
-		<use xlink:href="#SVGID_209_"  overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="#091F2E"/>
-		<clipPath id="SVGID_8_">
-			<use xlink:href="#SVGID_209_"  overflow="visible"/>
-		</clipPath>
-		<g clip-path="url(#SVGID_8_)">
-			<defs>
-				<rect id="SVGID_211_" x="-9.7" y="-165.4" width="168.7" height="244.7"/>
-			</defs>
-			<use xlink:href="#SVGID_211_"  overflow="visible" fill="#091F2E"/>
-			<clipPath id="SVGID_10_">
-				<use xlink:href="#SVGID_211_"  overflow="visible"/>
-			</clipPath>
-		</g>
-	</g>
-</g>
-<line fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" x1="10.9" y1="10" x2="56.3" y2="54.6"/>
-<line fill="#FFFFFF" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" x1="34.2" y1="11.2" x2="34.2" y2="54.6"/>
-<line fill="#FFFFFF" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" x1="57.2" y1="32.9" x2="11.2" y2="32.9"/>
-<line fill="#FFFFFF" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" x1="46.5" y1="20.6" x2="22" y2="45.2"/>
-<line fill="#FFFFFF" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" x1="46.5" y1="45.2" x2="22" y2="20.6"/>
-<circle fill="#FFFFFF" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" cx="34.2" cy="32.9" r="7.1"/>
-<polyline fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" points="29.1,13.4 34.1,18.9 39.6,13.7 "/>
-<polyline fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" points="39.6,52.6 34.6,47.1 29.1,52.3 "/>
-<polyline fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" points="13.1,38.3 18.6,33.3 13.4,27.7 "/>
-<polyline fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" points="55.1,27.7 49.6,32.8 54.7,38.3 "/>
-<polyline fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" points="15.3,21.3 22.7,21.6 23,14.1 "/>
-<polyline fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" points="52.4,43.5 45,43.2 44.7,50.7 "/>
-<polyline fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" points="45.3,14.4 45,21.9 52.5,22.1 "/>
-<polyline fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" points="23.1,51.6 23.4,44.1 15.9,43.9 "/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 66 66">
+    <defs>
+        <circle id="a" cx="33" cy="33" r="31.4"/>
+    </defs>
+    <use xlink:href="#a" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
+    <defs>
+        <path id="b" d="M28.5-121.3v5.9h4.3c2.1 0 4.7-.1 4.7-2.9 0-2.9-2.4-3-3.7-3h-5.3zm0-9.5v5.1h4.6c1.4 0 3.6-.1 3.6-2.6 0-2.4-2.1-2.5-3.2-2.5h-5zm-5.8-4.6h9.5c2.6 0 4.9.1 6.4.6 3 1 4.2 3.4 4.2 5.7 0 1.3-.3 2.1-.5 2.4-1.1 2.5-3.5 3-4.8 3.3 1.5.2 3.5.6 4.8 2.1.9.9 1.4 2.3 1.4 3.7 0 1.9-1 4.6-4.1 5.9-1.8.8-3.8.9-6.6.9H22.7v-24.6z"/>
+    </defs>
+    <use xlink:href="#b" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="#091F2E"/>
+    <clipPath id="c">
+        <use xlink:href="#b" overflow="visible"/>
+    </clipPath>
+    <g clip-path="url(#c)">
+        <defs>
+            <path id="d" d="M-9.6-165.2h167.8V78.3H-9.6z"/>
+        </defs>
+        <use xlink:href="#d" overflow="visible" fill="#091F2E"/>
+    </g>
+    <defs>
+        <path id="e" d="M22.7-107.4h21v4.8h-21z"/>
+    </defs>
+    <use xlink:href="#e" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="#091F2E"/>
+    <clipPath id="f">
+        <use xlink:href="#e" overflow="visible"/>
+    </clipPath>
+    <g clip-path="url(#f)">
+        <defs>
+            <path id="g" d="M-9.7-165.4H159V79.3H-9.7z"/>
+        </defs>
+        <use xlink:href="#g" overflow="visible" fill="#091F2E"/>
+    </g>
+    <path fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M10.9 10l45.4 44.6"/>
+    <path fill="#FFF" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M34.2 11.2v43.4M57.2 32.9h-46M46.5 20.6L22 45.2M46.5 45.2L22 20.6"/>
+    <circle fill="#FFF" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" cx="34.2" cy="32.9" r="7.1"/>
+    <path fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M29.1 13.4l5 5.5 5.5-5.2M39.6 52.6l-5-5.5-5.5 5.2M13.1 38.3l5.5-5-5.2-5.6M55.1 27.7l-5.5 5.1 5.1 5.5M15.3 21.3l7.4.3.3-7.5M52.4 43.5l-7.4-.3-.3 7.5M45.3 14.4l-.3 7.5 7.5.2M23.1 51.6l.3-7.5-7.5-.2"/>
 </svg>
