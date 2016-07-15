@@ -4,17 +4,17 @@
     </defs>
     <use class="svg-stroke-hover" xlink:href="#a" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
     <path fill="#FFF" d="M13.6 19.1h38.8v4.5H13.6z"/>
-    <path fill="#091F2F" d="M53.6 24.7H12.4V18h41.1v6.7zm-38.9-2.3h36.5v-2.2H14.7v2.2z"/>
+    <path class="svg-fill-hover" fill="#091F2F" d="M53.6 24.7H12.4V18h41.1v6.7zm-38.9-2.3h36.5v-2.2H14.7v2.2z"/>
     <path fill="#FFF" d="M13.6 24h38.8v24.5H13.6z"/>
-    <path fill="#091F2F" d="M53.6 49.7H12.4V22.9h41.1v26.8zm-38.9-2.3h36.5V25.2H14.7v22.2z"/>
-    <path fill="#091F2F" d="M18.5 28h3.9v3.9h-3.9zM24.6 28h3.9v3.9h-3.9zM30.8 28h3.9v3.9h-3.9zM36.9 28h3.9v3.9h-3.9zM43.1 28H47v3.9h-3.9zM18.5 33.7h3.9v3.9h-3.9zM24.6 33.7h3.9v3.9h-3.9zM30.8 33.7h3.9v3.9h-3.9zM36.9 33.7h3.9v3.9h-3.9zM43.1 33.7H47v3.9h-3.9zM18.5 39.5h3.9v3.9h-3.9zM24.6 39.5h3.9v3.9h-3.9z"/>
+    <path class="svg-fill-hover" fill="#091F2F" d="M53.6 49.7H12.4V22.9h41.1v26.8zm-38.9-2.3h36.5V25.2H14.7v22.2z"/>
+    <path class="svg-fill-hover" fill="#091F2F" d="M18.5 28h3.9v3.9h-3.9zM24.6 28h3.9v3.9h-3.9zM30.8 28h3.9v3.9h-3.9zM36.9 28h3.9v3.9h-3.9zM43.1 28H47v3.9h-3.9zM18.5 33.7h3.9v3.9h-3.9zM24.6 33.7h3.9v3.9h-3.9zM30.8 33.7h3.9v3.9h-3.9zM36.9 33.7h3.9v3.9h-3.9zM43.1 33.7H47v3.9h-3.9zM18.5 39.5h3.9v3.9h-3.9zM24.6 39.5h3.9v3.9h-3.9z"/>
     <g>
-        <path fill="#091F2F" d="M30.8 39.5h3.9v3.9h-3.9z"/>
+        <path class="svg-fill-hover" fill="#091F2F" d="M30.8 39.5h3.9v3.9h-3.9z"/>
     </g>
     <g>
-        <path fill="#091F2F" d="M36.9 39.5h3.9v3.9h-3.9z"/>
+        <path class="svg-fill-hover" fill="#091F2F" d="M36.9 39.5h3.9v3.9h-3.9z"/>
     </g>
-    <text transform="translate(42.833 43.143)" fill="#091F2F" font-family="'Montserrat-Bold'" font-size="6.431">
+    <text class="svg-fill-hover" transform="translate(42.833 43.143)" fill="#091F2F" font-family="'Montserrat-Bold'" font-size="6.431">
         x
     </text>
 </svg>

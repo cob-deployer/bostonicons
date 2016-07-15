@@ -3,6 +3,6 @@
         <circle id="a" cx="33.2" cy="32.6" r="31.4"/>
     </defs>
     <use class="svg-stroke-hover" xlink:href="#a" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
-    <circle fill="#091F2F" cx="33.1" cy="32.4" r="21.9"/>
-    <path fill="#FFF" d="M43 21.1H24v5h6v18h6v-18h7z"/>
+    <circle class="svg-fill-hover" fill="#091F2F" cx="33.1" cy="32.4" r="21.9"/>
+    <path class="svg-fill-hover" fill="#FFF" d="M43 21.1H24v5h6v18h6v-18h7z"/>
 </svg>

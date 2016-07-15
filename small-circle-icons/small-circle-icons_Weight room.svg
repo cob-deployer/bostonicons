@@ -5,8 +5,8 @@
     <use class="svg-stroke-hover" xlink:href="#a" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
     <path class="svg-stroke-hover" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M11.5 26l21.1-14.5L52.7 26"/>
     <path class="svg-stroke-hover" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M49 23.5v25H16.4V23.8"/>
-    <path fill="#091F2F" d="M24.3 28.4h3v10.7h-3z"/>
+    <path class="svg-fill-hover" fill="#091F2F" d="M24.3 28.4h3v10.7h-3z"/>
     <path class="svg-stroke-hover" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M23.1 30.5V37"/>
-    <path fill="#091F2F" d="M38.1 28.4h2.8v10.7h-2.8z"/>
+    <path class="svg-fill-hover" fill="#091F2F" d="M38.1 28.4h2.8v10.7h-2.8z"/>
     <path class="svg-stroke-hover" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M42.1 37.5V31M27.4 33.7h12M21.4 33.7h1.5M42.9 33.7h1.5"/>
 </svg>

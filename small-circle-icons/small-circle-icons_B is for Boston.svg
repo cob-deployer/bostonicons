@@ -15,13 +15,13 @@
             <defs>
                 <path id="d" d="M-9.6-13.2h167.8v243.5H-9.6z"/>
             </defs>
-            <use xlink:href="#d" overflow="visible" fill="#091F2E"/>
+            <use class="svg-fill-hover" xlink:href="#d" overflow="visible" fill="#091F2E"/>
         </g>
         <g>
             <defs>
                 <path id="e" d="M22.7 44.6h21v4.8h-21z"/>
             </defs>
-            <use xlink:href="#e" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="#091F2E"/>
+            <use class="svg-fill-hover" xlink:href="#e" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="#091F2E"/>
             <clipPath id="f">
                 <use xlink:href="#e" overflow="visible"/>
             </clipPath>
@@ -29,7 +29,7 @@
                 <defs>
                     <path id="g" d="M-9.7-13.4H159v244.7H-9.7z"/>
                 </defs>
-                <use xlink:href="#g" overflow="visible" fill="#091F2E"/>
+                <use class="svg-fill-hover" xlink:href="#g" overflow="visible" fill="#091F2E"/>
             </g>
         </g>
     </g>

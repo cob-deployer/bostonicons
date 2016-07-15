@@ -7,5 +7,5 @@
     <path class="svg-stroke-hover" fill="none" stroke="#0C1F2E" stroke-width="2.9999700000000002" stroke-linecap="round" stroke-miterlimit="10" d="M25.832 31.011l5.248-5.074L43.8 39.093l-5.247 5.074z"/>
     <path class="svg-stroke-hover" fill="none" stroke="#0C1F2E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M36.1 12.3v5.6M29.6 49v5.7M51.6 27h-5.7M19.9 38.5h-5.7M47.2 17l-4 4M22.9 46.3l-4 4"/>
     <path class="svg-stroke-hover" fill="none" stroke="#0C1F2E" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" d="M41.3 41.7l13.9 13.6"/>
-    <path fill-rule="evenodd" clip-rule="evenodd" fill="#0C1F2E" d="M-29.8 52.3l-10.7-18.6 10.7-18.6h21.6L2.5 33.7-8.2 52.3z"/>
+    <path class="svg-fill-hover" fill-rule="evenodd" clip-rule="evenodd" fill="#0C1F2E" d="M-29.8 52.3l-10.7-18.6 10.7-18.6h21.6L2.5 33.7-8.2 52.3z"/>
 </svg>

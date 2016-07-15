@@ -5,7 +5,7 @@
     <use class="svg-stroke-hover" xlink:href="#a" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
     <circle class="svg-stroke-hover" fill="none" stroke="#091F2F" stroke-miterlimit="10" cx="32.5" cy="10.9" r="6.5"/>
     <path class="svg-stroke-hover" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M32.5 2v2.4"/>
-    <g fill="#091F2F">
+    <g class="svg-fill-hover" fill="#091F2F">
         <circle cx="31.1" cy="25.8" r="3.1"/>
         <path d="M36 40l-1.6-6.5 4 1.4-1.4 3.8 3 1.1 2.6-6.9-8.7-3-6.3-.2-6-10.4-2.8 1.6 7.5 13 1.4 7.5-5.5 4.7L29.3 57l2.6-1.8-5-8.8z"/>
         <path d="M37.1 41l-3.7 2.3 10.5 13.1 2.6-1.8z"/>
