@@ -2,7 +2,7 @@
     <defs>
         <circle id="a" cx="33" cy="33" r="31.4"/>
     </defs>
-    <use xlink:href="#a" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
+    <use class="svg-stroke-hover" xlink:href="#a" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
     <path fill="#091F2F" d="M27.3 36.1v-9.2h-7.9l-2.3 4.9c-.8.2-3.4.7-6.3 1.7l-.4.1v7.8h44v-5.3H27.3zm-1.8-1.4h-6.3v-2.1l1.7-3.6h4.6v5.7z"/>
     <g fill="#091F2F">
         <circle cx="18.7" cy="42.5" r="4"/>

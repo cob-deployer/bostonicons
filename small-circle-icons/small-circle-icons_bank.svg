@@ -2,10 +2,10 @@
     <defs>
         <circle id="a" cx="33" cy="33" r="31.4"/>
     </defs>
-    <use xlink:href="#a" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
-    <g fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10">
+    <use class="svg-stroke-hover" xlink:href="#a" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
+    <g class="svg-stroke-hover" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10">
         <path d="M51.5 28.5L33.1 13.9 15.8 28.5z"/>
         <path d="M49.5 28.3v22.6H16.9V28.6"/>
     </g>
-    <path fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M22.6 28.5v22.4M29.5 28.5v22.4M36.4 28.5v22.4M43.3 28.5v22.4"/>
+    <path class="svg-stroke-hover" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M22.6 28.5v22.4M29.5 28.5v22.4M36.4 28.5v22.4M43.3 28.5v22.4"/>
 </svg>

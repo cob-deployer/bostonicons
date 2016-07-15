@@ -2,8 +2,8 @@
     <defs>
         <circle id="a" cx="33" cy="33" r="31.4"/>
     </defs>
-    <use xlink:href="#a" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
-    <path fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M9.7 24.7h46.6v17.7H9.7z"/>
-    <circle fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" cx="45.7" cy="33.5" r="5.3"/>
-    <path fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M12 44.5h10M42 44.5h11M14.5 38v-8M19.5 38v-8M24.5 38v-8"/>
+    <use class="svg-stroke-hover" xlink:href="#a" overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10"/>
+    <path class="svg-stroke-hover" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M9.7 24.7h46.6v17.7H9.7z"/>
+    <circle class="svg-stroke-hover" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" cx="45.7" cy="33.5" r="5.3"/>
+    <path class="svg-stroke-hover" fill="none" stroke="#091F2F" stroke-width="3" stroke-miterlimit="10" d="M12 44.5h10M42 44.5h11M14.5 38v-8M19.5 38v-8M24.5 38v-8"/>
 </svg>
