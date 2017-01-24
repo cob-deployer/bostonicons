@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65">
+  <title>Municipal Buildings</title>
+  <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+    <circle class="svg-stroke-hover" cx="31.5" cy="31.5" r="30.9" stroke="#091F2F" stroke-width="3"/>
+    <path class="svg-stroke-hover" stroke="#091F2F" stroke-width="3" d="M38.7 30.3V19H27v-2h-4v2h-3.2v28.4H47v-17z"/>
+    <path class="svg-fill-hover" fill="#091F2F" fill-rule="nonzero" d="M23 40.4h4v4h-4v-4zm8.7 0h4v4h-4v-4zm8.7 0h4v4h-4v-4zm-17.4-6h4v4h-4v-4zm8.7 0h4v4h-4v-4zm8.7 0h4v4h-4v-4zm-17.4-6h4v4h-4v-4zm8.7 0h4v4h-4v-4zm-8.7-6h4v4h-4v-4zm8.7 0h4v4h-4v-4z"/>
+  </g>
+</svg>
