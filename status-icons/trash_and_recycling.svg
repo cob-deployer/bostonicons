@@ -1,9 +1,9 @@
-<svg width="65" height="65" xmlns="http://www.w3.org/2000/svg">
-  <title>Trash and Recyling</title>
-  <g transform="translate(2 1)" fill="none" fill-rule="evenodd">
-    <circle class="svg-stroke-hover" stroke="#091F2F" stroke-width="3" cx="31.402" cy="31.5" r="30.929"/>
-    <path class="svg-stroke-hover" stroke="#091F2F" stroke-width="3" d="M21.312 17.876h20.18v4.006h-20.18z"/>
-    <path class="svg-fill-hover" fill="#091F2F" fill-rule="nonzero" d="M26.805 13.752h9.204v1.998h-9.206z"/>
-    <path class="svg-stroke-hover" stroke="#091F2F" stroke-width="3" d="M37.623 47.663H25.18L22.59 25.83h17.622z"/>
+<svg width="65" height="64" xmlns="http://www.w3.org/2000/svg">
+  <title>Trash and Recycling</title>
+  <g transform="translate(1 1)" fill="none" fill-rule="evenodd">
+    <ellipse class="svg-stroke-hover" stroke="#091F2F" stroke-width="3" cx="30.904" cy="31" rx="30.438" ry="30.438"/>
+    <path class="svg-stroke-hover" stroke="#091F2F" stroke-width="3" d="M20.974 17.592h19.86v3.943h-19.86z"/>
+    <path class="svg-fill-hover" fill="#091F2F" fill-rule="nonzero" d="M26.38 13.534h9.057V15.5h-9.06"/>
+    <path class="svg-stroke-hover" stroke="#091F2F" stroke-width="3" d="M37.026 46.906H24.78L22.23 25.42h17.344z"/>
   </g>
 </svg>
