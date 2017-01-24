@@ -1,0 +1,9 @@
+<svg width="65" height="65" xmlns="http://www.w3.org/2000/svg">
+  <title>Trash and Recyling</title>
+  <g transform="translate(2 1)" fill="none" fill-rule="evenodd">
+    <circle class="svg-stroke-hover" stroke="#091F2F" stroke-width="3" cx="31.402" cy="31.5" r="30.929"/>
+    <path class="svg-stroke-hover" stroke="#091F2F" stroke-width="3" d="M21.312 17.876h20.18v4.006h-20.18z"/>
+    <path class="svg-fill-hover" fill="#091F2F" fill-rule="nonzero" d="M26.805 13.752h9.204v1.998h-9.206z"/>
+    <path class="svg-stroke-hover" stroke="#091F2F" stroke-width="3" d="M37.623 47.663H25.18L22.59 25.83h17.622z"/>
+  </g>
+</svg>
